@@ -1,5 +1,9 @@
 @Author: Churong Zhang
 
+![alt text](https://github.com/CZhang1997/search_video/blob/main/index.png?raw=true)
+
+fetch the video title and descriptions from mongo db and display on the page, can search base on title.
+
 Assume have mongo db(`mongodb://localhost:27017/`)
 setup and have data(example: vidzy.json) in it
 how to run:
