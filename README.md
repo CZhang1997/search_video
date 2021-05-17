@@ -1,3 +1,17 @@
+@Author: Churong Zhang
+Assume have mongo db(mongodb://localhost:27017/) setup and have data(example: vidzy.json) in it
+how to run:
+backend:
+python app.py
+frontent:
+Run
+npm install
+Then
+npm start
+Inside video_search
+
+more instruction for frontend
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +82,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # search_video
