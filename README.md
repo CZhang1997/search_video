@@ -1,14 +1,19 @@
 @Author: Churong Zhang
-Assume have mongo db(mongodb://localhost:27017/) setup and have data(example: vidzy.json) in it
+
+Assume have mongo db(`mongodb://localhost:27017/`)
+setup and have data(example: vidzy.json) in it
 how to run:
-backend:
-python app.py
-frontent:
+
+# backend:
+
+`python app.py`
+
+# frontent:
+
 Run
-npm install
+`npm install`
 Then
-npm start
-Inside video_search
+`npm start`
 
 more instruction for frontend
 
